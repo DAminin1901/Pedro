@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 15px;
+    margin-left: 30px;
+    font-family:"Monotype Corsiva";
+    font-size: 28px;
+    background-color: lightcyan;
+    color:rgb(25, 41, 41);
+}
+#contenedor{
+    display: flex;
+}
+
+
+
+#titulo{
+    margin-right: 15%;
+    font-size: 50px;
+    text-align: center;
+    width: 50%;
+    border-radius: 100px;
+    padding: 20px;
+    background-color: lightblue;
+}
+
+p{
+    width:50%;
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    border: 1px solid #d0d0d0;
+    font-size: 20px;
+    color: #585858;
+}
+#contacto{
+    font-size: 40px;
+    text-align:center;
+    padding-left: 0;
+    background-color: lightblue;
+    border-radius: 50px;
+    
+    
+}
+img{
+    text-align: right;
+    margin: 0;
+}
